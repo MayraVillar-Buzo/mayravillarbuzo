@@ -2,6 +2,34 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+![Me](mypic.png){fig-align="left" width="200"}
 
-For details, see the exercise instructions. 
+### This is me.
+
+My name is Mayra and I am a Graduate student at the University of Georgia Department of Food Science and Technology. My home country is Mexico, a beautiful land filled with delicious food, magical landscapes, and lovely people.
+
+#### My professional background and research interests.
+
+I have a Bachelor's in Biology and a Master in Biomedical Sciences. I am passionate about molecular and cell biology, food borne diseases, epidemiology, and public health, although I still have much to learn on the last couple of topics.
+
+**Any experience in programming and data analysis?**
+
+I have intermediate-level training in inferential statistics and none in programming :S I am fairly new to the main subject of this class, but I am certain that getting training in data analysis will benefit me and that it will provide me a valuable set of skills.
+
+**What would I like to learn in this course?**
+
+Did I mention I am fairly new to the subject? LOL, well, I might not be able to have a clear idea of what I am going to learn in this class. I believe anything I'll get from it will be helpful. Perhaps the one thing I could say is that I would like to be able to analyse and compare the incidence of food borne illnesses in developed and developing countries.
+
+Is this too ambitious?
+
+**Fun facts.**
+
+I hiked 800 km (497 miles) in 6 weeks, traveling the Path of Saint Jacques (El Camino de Santiago) in Northern Spain. It was a wonderful experience and I would love to do it again.
+
+#### Why I find data analysis relevant?
+
+I believe data analysis could provide scientists with some clues on how illnesses behave which could ultimately lead to a personalized health care. 
+
+The following TED Talk by Ronda Hughes shows a glimpse of this approach.
+
+{{< video https://www.youtube.com/watch?v=uWGmAZOX6gU&t=2s >}}
